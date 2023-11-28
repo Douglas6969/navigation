@@ -17,6 +17,6 @@ export const styles = StyleSheet.create({
         marginTop: 250
     },
     botao: {
-        marginTop: 190
+        marginTop: 130
     }
 })

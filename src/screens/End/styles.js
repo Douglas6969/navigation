@@ -6,7 +6,7 @@ export const styles = StyleSheet.create({
         alignItems: 'center',
     },
     nome: {
-        marginTop: 100,    
+        marginTop: 60,    
     },
     rg: {
         marginTop: 40
@@ -17,7 +17,7 @@ export const styles = StyleSheet.create({
         marginTop: 250
     },
     botao: {
-        marginTop: 100,
+        marginTop: 80,
         flexDirection:'row',
     },
     titulo:{
